@@ -9,6 +9,10 @@ p, .grey-color {
 	height: 195px;
 }
 
+.all-left {
+	float: left;
+}
+
 .backimage {
 	position: relative;
 	width: 290px;
@@ -32,10 +36,11 @@ p, .grey-color {
 	color: white;
 }
 
-.header {
-	background-color: rgb(220, 220, 220);
-	border: 30px;
-	border-color: grey;
+.grey-margin {
+	width: 440px;
+	height: 40px;
+	background-color: rgb(220,220,220);
+	margin-top: -16px;
 }
 
 .right {
