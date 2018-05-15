@@ -1,0 +1,61 @@
+p, .grey-color {
+	color: rgb(170, 170, 170);
+}
+
+.left {
+	position: relative;
+	float: left;
+	width: 290px;
+	height: 195px;
+}
+
+.backimage {
+	position: relative;
+	width: 290px;
+	height: 195px;
+}
+
+.frontimage {
+	position: absolute;
+	bottom: 30px;
+	left: 30px;
+	width: 80%;
+	height: 80%;
+
+}
+
+.text-image {
+	position: absolute;
+	bottom: -5px;
+	left: 60px;
+	font-size: 20px;
+	color: white;
+}
+
+.header {
+	background-color: rgb(220, 220, 220);
+	border: 30px;
+	border-color: grey;
+}
+
+.right {
+	width:440px;
+	height: 195px;
+	float: left;
+}
+
+.flag {
+	width: 7%;
+	height: 7%;
+	border-right: 30px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.middle-image {
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+
+
